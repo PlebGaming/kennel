@@ -1,0 +1,7 @@
+E:\ECUtbildning\Code Patterns\InlamningsUppgift1_DesignPattern\Inlamningsuppgift1\Inlamningsuppgift1\bin\Debug\Inlamningsuppgift1.exe.config
+E:\ECUtbildning\Code Patterns\InlamningsUppgift1_DesignPattern\Inlamningsuppgift1\Inlamningsuppgift1\bin\Debug\Inlamningsuppgift1.exe
+E:\ECUtbildning\Code Patterns\InlamningsUppgift1_DesignPattern\Inlamningsuppgift1\Inlamningsuppgift1\bin\Debug\Inlamningsuppgift1.pdb
+E:\ECUtbildning\Code Patterns\InlamningsUppgift1_DesignPattern\Inlamningsuppgift1\Inlamningsuppgift1\obj\Debug\Inlamningsuppgift1.csproj.CoreCompileInputs.cache
+E:\ECUtbildning\Code Patterns\InlamningsUppgift1_DesignPattern\Inlamningsuppgift1\Inlamningsuppgift1\obj\Debug\Inlamningsuppgift1.exe
+E:\ECUtbildning\Code Patterns\InlamningsUppgift1_DesignPattern\Inlamningsuppgift1\Inlamningsuppgift1\obj\Debug\Inlamningsuppgift1.pdb
+E:\ECUtbildning\Code Patterns\InlamningsUppgift1_DesignPattern\Inlamningsuppgift1\Inlamningsuppgift1\obj\Debug\Inlamningsuppgift1.csproj.AssemblyReference.cache
