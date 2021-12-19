@@ -149,7 +149,7 @@ namespace Inlamningsuppgift1
                     }
                     Console.WriteLine("Do you want to add the service claw trimming? y or n?");
                     string answer2 = Console.ReadLine();
-                    if (answer.ToLower() == "y")
+                    if (answer2.ToLower() == "y")
                     {
                         dog.ServicesOrdered.Add(new ClawTrimming());
                     }
